@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You have to run the app at (http://localhost:3000) or else the api won't work.
 
 ## ScreenShot
-![react_translator](https://user-images.githubusercontent.com/30807968/90774790-d8404680-e319-11ea-8590-bf9c25f65a81.jpg)
+![react_translator](https://user-images.githubusercontent.com/30807968/90775117-4258eb80-e31a-11ea-954f-f27aa091c0e0.jpg)
 
 ## Available Scripts
 
