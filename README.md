@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+## Important
+You have to run the app at (http://localhost:3000) or else the api won't work.
 
 ## Available Scripts
 
